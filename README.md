@@ -17,6 +17,6 @@ The following will be covered in this program:
 - Develop an  encryption scheme based on the  RSA based asymmetric key pairs, and AES_CBC based symmetric keys, for each targeted files.
 - Develop recovery program for the recovery of the different types of encryption keys, as well as the encrypted files.
 
-In mydirectory folder you will find files with Ransomware.py which intends to find target files and encrypt them and Recovery.py intends to decrypt and delete traces of the ransomware.
+In mydirectory folder you will find files with Ransomware.py which intends to find target files and encrypt them and fileRecovery.py intends to decrypt and delete traces of the ransomware.
 
 Project is Done by Saniya and partner; Madeeha. UOWD 2021
